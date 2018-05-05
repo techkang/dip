@@ -1,7 +1,7 @@
-from PIL import Image
-import numpy as np
-import scipy.signal as signal
 import matplotlib.pyplot as plt
+import numpy as np
+from PIL import Image
+import scipy.signal as signal
 
 DEBUG = False
 
